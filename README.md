@@ -1,5 +1,4 @@
 # Yulu-Data-Driven-Insights-into-Micro-Mobility-Demand
-# Yulu: Data-Driven Insights into Micro-Mobility Demand
 
 ## Overview
 This repository contains an in-depth analysis of Yulu, India’s leading micro-mobility service provider. The project aims to understand the factors affecting the demand for Yulu's shared electric bikes through rigorous hypothesis testing and data analysis. The insights derived from this study will help optimize operations, enhance user engagement, and increase overall demand.
